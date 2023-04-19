@@ -151,7 +151,7 @@ Git lets you create branches, which are copies that you can use and edit that ar
 
 Create a new branch and switch to it:
 
-- `git checkout -b <your_name>`
+- `git switch -c <your_name>`
 
 In your markdown file, add your favorite day of the week:
 
