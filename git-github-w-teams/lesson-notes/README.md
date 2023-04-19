@@ -98,7 +98,8 @@ The person with the merge conflict, should share their screen, and as a class fi
 The steps are to:
 
 - Choose the changes that are correct
-- Add, commit
+- add
+- commit
 - push the changes back to GitHub
 
 The second person will need to make a pull request and should get a `merge conflict`.
