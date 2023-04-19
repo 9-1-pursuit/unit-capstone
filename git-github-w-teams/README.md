@@ -19,7 +19,7 @@ The first argument is the command (or verb), like
 
 The second(+) argument gives the first argument context (when needed)
 
-- `git add .` (add all files in this directory)
+- `git add -A` (add all files in this directory)
 - `git pull origin main` (get all files from the url that has an alias of `origin`, from the branch `main`)
 
 Lastly, flags can be added
