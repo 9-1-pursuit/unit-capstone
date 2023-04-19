@@ -17,7 +17,7 @@ In this class activity:
 
 - You will all become collaborators on a single repository
 - Get a copy of the repository on your machine
-- Make a change and push it directly to master
+- Make a change and push it directly to main
 - Create a branch, make a change and push it to your branch
 - Make a pull request to merge your branch into main
 - Learn about why there is a `dev` branch and see a way it can be used
