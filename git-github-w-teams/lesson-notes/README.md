@@ -214,7 +214,7 @@ Get the changes to `main` into your branch by checking you are on your branch an
 
 Get the changes from `main` onto your `main` branch by
 
-- `git checkout main` (why is the `-b` not included?)
+- `git switch main` (why is the `-c` not included?)
 - `git pull origin main`
 
 ## New Features
@@ -239,12 +239,12 @@ You will now be put into small groups to work on one of the following features. 
 
 With your group - switch back to the `main` branch and make sure you have the latest version, if you haven't already:
 
-- `git checkout main`
+- `git switch main`
 - `git pull origin main`
 
 Now, make a new feature branch after the feature name you were given (everyone in your group should have the same `<feature>` name here). For example, if you are all in the `awesome` group everyone should make a branch called `awesome`
 
-- `git checkout -b <feature>`
+- `git switch -c <feature>`
 
 One group member should make a new folder called `feature`
 
@@ -290,9 +290,9 @@ Merge the changes from main into your feature branch. While you are still on you
 
 - `git pull origin main`
 
-Finally, checkout to main
+Finally, switch to main
 
-- `git checkout main`
+- `git switch main`
 
 And lastly, pull in the latest changes from GitHub's main branch to yours
 
