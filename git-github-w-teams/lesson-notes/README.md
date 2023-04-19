@@ -58,7 +58,7 @@ Today, we will all work and contribute to the same repository without making for
 - `git clone <repository url>`
 - `cd <repository url>`
 - `touch <my_name>.md`
-- `git add .`
+- `git add -A`
 - `git commit -m 'add <my_name> file`
 - `git push origin main`
 
