@@ -69,7 +69,8 @@ It's [pretty](http://www.jstor.org/stable/2779483?seq=1#page_scan_tab_contents)
 [well](http://psycnet.apa.org/journals/apl/84/4/620/)
 [documented](http://onlinelibrary.wiley.com/doi/10.1111/0022-4537.00233/abstract;jsessionid=DDF6B475A5ADE1E94547F07AD9943C5A.f02t02)
 that women often are overlooked in mixed-gender groups. Luckily, you don't have
-to be a part of this problem. Here are some ways that you can support the women in your group.
+to be a part of this problem. Here are some ways that you can support the women
+in your group.
 
 - Don't interrupt them when they are talking
 - Publicly acknowledge the work that they do
@@ -77,7 +78,7 @@ to be a part of this problem. Here are some ways that you can support the women 
 - If they haven't spoken in a while, ask them if they have anything to add
 - Keep it [PC](http://www.npr.org/2014/12/18/371737257/when-working-in-mixed-groups-staying-p-c-boosts-productivity)
 
-But I'm not one of "those guys!" Great! Women and other non-binary identifying people have experienced so many of "those guys" in their lives that unfortunately, you will have to put in some extra effort to make it clear that you're not one of them. Thanks!
+But I'm not one of "those guys!" Great! Women have experienced so many of "those guys" in their lives that unfortunately, you will have to put in some extra effort to make it clear that you're not one of them. Thanks!
 
 ## Things to Remember
 
